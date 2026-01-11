@@ -67,21 +67,13 @@ Le WSDL du service est disponible à l'URL : `http://localhost:8080/ws/BanqueWS?
 
 1. Cloner le dépôt
 2. Exécuter la commande : `mvn spring-boot:run`
-3. Le serveur démarrera sur http://localhost:8080
+3. Le serveur démarrera sur http://localhost:8082
 
-## 📚 Documentation supplémentaire
 
-- [Spring Boot Documentation](https://spring.io/projects/spring-boot)
-- [Apache CXF Documentation](https://cxf.apache.org/)
-- [JAX-WS Documentation](https://docs.oracle.com/javaee/6/tutorial/doc/bnayl.html)
-
-**Réalisé par : Ayyoub**  
-**Date : 25 novembre 2025**
 
 ## Captures d’écran du TP (tout fonctionne parfaitement)
 
-| N° | Description                        | Capture                     |
-|----|------------------------------------|-----------------------------|
-| 1  | XML file                           | ![1](captures/1.png)        |
-| 2  | Console H2 connectée               | ![2](captures/2.png)        |
-| 3  | SoapUI – Projet chargé proprement  | ![3](captures/3.png)        |
+<img width="1366" height="705" alt="SoapUI 5 9 1  11_01_2026 16_00_50" src="https://github.com/user-attachments/assets/f6911aa7-2558-41a2-b8a4-130de3dedb33" />
+<img width="1366" height="705" alt="SoapUI 5 9 1  11_01_2026 16_01_41" src="https://github.com/user-attachments/assets/3d010940-24f5-4253-962b-73492e321189" />
+<img width="1366" height="705" alt="SoapUI 5 9 1  11_01_2026 16_02_23" src="https://github.com/user-attachments/assets/8934ad45-4fb8-451b-af94-0a00c5978298" />
+<img width="1366" height="705" alt="SoapUI 5 9 1  11_01_2026 16_02_39" src="https://github.com/user-attachments/assets/500de6a6-d1b4-42c5-8515-b3a0a9378287" />
