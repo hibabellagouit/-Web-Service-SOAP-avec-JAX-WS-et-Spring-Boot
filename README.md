@@ -22,20 +22,16 @@ Ce projet implémente un service web SOAP simple pour la gestion de comptes banc
 ## 🛠 Configuration
 
 Le projet utilise la configuration par défaut de Spring Boot avec les propriétés suivantes :
-- Port du serveur : 8080
+- Port du serveur : 8082
 - Base de données H2 en mémoire
-- Console H2 accessible à l'URL : http://localhost:8080/h2-console
-  - JDBC URL: jdbc:h2:mem:testdb
-  - Username: sa
-  - Password: (vide)
 
 ## 📡 Points d'accès SOAP
 
-Le service web est exposé à l'URL : `http://localhost:8080/ws`
+Le service web est exposé à l'URL : `http://localhost:8082/ws`
 
 ### WSDL
 
-Le WSDL du service est disponible à l'URL : `http://localhost:8080/ws/BanqueWS?wsdl`
+Le WSDL du service est disponible à l'URL : `http://localhost:8082/ws/BanqueWS?wsdl`
 
 ## 📝 Opérations disponibles
 
